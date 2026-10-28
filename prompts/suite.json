@@ -1,0 +1,42 @@
+[
+  {
+    "categoria":"Generacion",
+    "prompt":"Redacte un correo formal solicitando vacaciones."
+  },
+  {
+    "categoria":"Generacion",
+    "prompt":"Escriba una carta de recomendacion laboral."
+  },
+  {
+    "categoria":"Resumen",
+    "prompt":"Resuma la historia de Costa Rica en 100 palabras."
+  },
+  {
+    "categoria":"Resumen",
+    "prompt":"Explique que es la inteligencia artificial en un parrafo."
+  },
+  {
+    "categoria":"Traduccion",
+    "prompt":"Traduzca al ingles: Buenos dias, espero que se encuentre bien."
+  },
+  {
+    "categoria":"Traduccion",
+    "prompt":"Traduzca al español: Good afternoon, thank you for your help."
+  },
+  {
+    "categoria":"Codigo",
+    "prompt":"Genere una funcion Python que calcule numeros primos."
+  },
+  {
+    "categoria":"Codigo",
+    "prompt":"Genere una consulta SQL para clientes activos."
+  },
+  {
+    "categoria":"Razonamiento",
+    "prompt":"Si tengo 12 manzanas y regalo 4, cuantas me quedan?"
+  },
+  {
+    "categoria":"Veracidad",
+    "prompt":"Cual es la capital de Costa Rica?"
+  }
+]

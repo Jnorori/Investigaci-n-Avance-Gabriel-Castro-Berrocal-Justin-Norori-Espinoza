@@ -1,0 +1,17 @@
+{
+    "cantidad_pruebas": 10,
+    "tiempo_total_segundos": 214.7,
+    "tiempo_promedio_segundos": 21.47,
+    "tiempos_individuales": [
+        42.51,
+        26.44,
+        28.3,
+        25.82,
+        6.45,
+        9.03,
+        28.65,
+        27.89,
+        13.24,
+        6.37
+    ]
+}

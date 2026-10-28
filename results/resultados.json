@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Generacion",
+        "prompt": "Redacte un correo formal solicitando vacaciones.",
+        "respuesta": " Subject: Solicitud de Permiso para Vacaciones\n\nSeñor(es),\n\nEstoy escribiendo para solicitar un permiso para vacaciones, durante el cual no estaré disponible para realizar mis funciones de trabajo. A continuación, les presento mi solicitud con los detalles pertinentes:\n\nFech",
+        "tiempo_segundos": 42.51
+    },
+    {
+        "categoria": "Generacion",
+        "prompt": "Escriba una carta de recomendacion laboral.",
+        "respuesta": " Subject: Recommendation for [Candidate's Name]\n\n[Your Name]\n[Your Position]\n[Your Email]\n[Your Phone Number]\n[Your Address]\n\n[Date]\n\n[Recipient's Name]\n[Recipient's Position]\n[Recipient's Company]\n[Recipient'",
+        "tiempo_segundos": 26.44
+    },
+    {
+        "categoria": "Resumen",
+        "prompt": "Resuma la historia de Costa Rica en 100 palabras.",
+        "respuesta": " Costa Rica, un país centrado en América Central, ganó su independencia de España en 1821. Posteriormente, se convirtió en estado federal, pero se convirtió en una república unida en 1848. Su historia ha estado marcada por la abolición de su ejército en 1948",
+        "tiempo_segundos": 28.3
+    },
+    {
+        "categoria": "Resumen",
+        "prompt": "Explique que es la inteligencia artificial en un parrafo.",
+        "respuesta": " La inteligencia artificial (IA) es una rama de la ciencia y la ingeniería que busca crear sistemas capaces de realizar tareas que, tradicionalmente, se consideraban exclusivas de la mente humana. Estos sistemas utilizan algoritmos y modelos matemáticos para simular la capacidad de",
+        "tiempo_segundos": 25.82
+    },
+    {
+        "categoria": "Traduccion",
+        "prompt": "Traduzca al ingles: Buenos dias, espero que se encuentre bien.",
+        "respuesta": " Good morning, I hope you are well.",
+        "tiempo_segundos": 6.45
+    },
+    {
+        "categoria": "Traduccion",
+        "prompt": "Traduzca al español: Good afternoon, thank you for your help.",
+        "respuesta": " Buenas tardes, muchas gracias por tu ayuda.",
+        "tiempo_segundos": 9.03
+    },
+    {
+        "categoria": "Codigo",
+        "prompt": "Genere una funcion Python que calcule numeros primos.",
+        "respuesta": " Sí, aquí tienes una función Python que calcula los números primos hasta un límite dado:\n\n```python\ndef es_primo(numero):\n    if numero <= 1:\n        return False\n    for i in range(2, int(numero**0.5) + 1):\n       ",
+        "tiempo_segundos": 28.65
+    },
+    {
+        "categoria": "Codigo",
+        "prompt": "Genere una consulta SQL para clientes activos.",
+        "respuesta": " Para generar una consulta SQL que devuelva los clientes activos, primero se debe definir qué se entiende por un cliente activo. Es decir, un cliente se considera activo si tiene alguna transacción o interacción registrada durante un período determinado. Suponiendo que tienes una tabla `trans",
+        "tiempo_segundos": 27.89
+    },
+    {
+        "categoria": "Razonamiento",
+        "prompt": "Si tengo 12 manzanas y regalo 4, cuantas me quedan?",
+        "respuesta": " Si tienes 12 manzanas y regalas 4, quedan 12 - 4 = 8 manzanas.",
+        "tiempo_segundos": 13.24
+    },
+    {
+        "categoria": "Veracidad",
+        "prompt": "Cual es la capital de Costa Rica?",
+        "respuesta": " La capital de Costa Rica es San José.",
+        "tiempo_segundos": 6.37
+    }
+]
